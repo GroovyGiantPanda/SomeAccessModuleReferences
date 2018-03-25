@@ -1,0 +1,11 @@
+C:\Users\NouNou\Documents\TheFamily\Source\Roleplay\TwitchLib.Core\bin\Release\netcoreapp2.0\TwitchLib.Core.deps.json
+C:\Users\NouNou\Documents\TheFamily\Source\Roleplay\TwitchLib.Core\bin\Release\netcoreapp2.0\TwitchLib.Core.dll
+C:\Users\NouNou\Documents\TheFamily\Source\Roleplay\TwitchLib.Core\bin\Release\netcoreapp2.0\TwitchLib.Core.pdb
+C:\Users\NouNou\Documents\TheFamily\Source\Roleplay\TwitchLib.Core\bin\Release\netcoreapp2.0\WebSocketSharp.Core.dll
+C:\Users\NouNou\Documents\TheFamily\Source\Roleplay\TwitchLib.Core\bin\Release\netcoreapp2.0\WebSocketSharp.Core.pdb
+C:\Users\NouNou\Documents\TheFamily\Source\Roleplay\TwitchLib.Core\obj\Release\netcoreapp2.0\TwitchLib.Core.csprojResolveAssemblyReference.cache
+C:\Users\NouNou\Documents\TheFamily\Source\Roleplay\TwitchLib.Core\obj\Release\netcoreapp2.0\TwitchLib.Core.csproj.CoreCompileInputs.cache
+C:\Users\NouNou\Documents\TheFamily\Source\Roleplay\TwitchLib.Core\obj\Release\netcoreapp2.0\TwitchLib.Core.AssemblyInfoInputs.cache
+C:\Users\NouNou\Documents\TheFamily\Source\Roleplay\TwitchLib.Core\obj\Release\netcoreapp2.0\TwitchLib.Core.AssemblyInfo.cs
+C:\Users\NouNou\Documents\TheFamily\Source\Roleplay\TwitchLib.Core\obj\Release\netcoreapp2.0\TwitchLib.Core.dll
+C:\Users\NouNou\Documents\TheFamily\Source\Roleplay\TwitchLib.Core\obj\Release\netcoreapp2.0\TwitchLib.Core.pdb

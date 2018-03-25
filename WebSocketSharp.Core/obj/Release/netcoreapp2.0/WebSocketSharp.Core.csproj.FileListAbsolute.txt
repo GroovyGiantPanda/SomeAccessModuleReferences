@@ -1,0 +1,8 @@
+C:\Users\NouNou\Documents\TheFamily\Source\Roleplay\WebSocketSharp.Core\bin\Release\netcoreapp2.0\WebSocketSharp.Core.deps.json
+C:\Users\NouNou\Documents\TheFamily\Source\Roleplay\WebSocketSharp.Core\bin\Release\netcoreapp2.0\WebSocketSharp.Core.dll
+C:\Users\NouNou\Documents\TheFamily\Source\Roleplay\WebSocketSharp.Core\bin\Release\netcoreapp2.0\WebSocketSharp.Core.pdb
+C:\Users\NouNou\Documents\TheFamily\Source\Roleplay\WebSocketSharp.Core\obj\Release\netcoreapp2.0\WebSocketSharp.Core.csproj.CoreCompileInputs.cache
+C:\Users\NouNou\Documents\TheFamily\Source\Roleplay\WebSocketSharp.Core\obj\Release\netcoreapp2.0\WebSocketSharp.Core.AssemblyInfoInputs.cache
+C:\Users\NouNou\Documents\TheFamily\Source\Roleplay\WebSocketSharp.Core\obj\Release\netcoreapp2.0\WebSocketSharp.Core.AssemblyInfo.cs
+C:\Users\NouNou\Documents\TheFamily\Source\Roleplay\WebSocketSharp.Core\obj\Release\netcoreapp2.0\WebSocketSharp.Core.dll
+C:\Users\NouNou\Documents\TheFamily\Source\Roleplay\WebSocketSharp.Core\obj\Release\netcoreapp2.0\WebSocketSharp.Core.pdb
